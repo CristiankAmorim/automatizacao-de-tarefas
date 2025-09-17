@@ -1,6 +1,6 @@
 ﻿# Automatização de Tarefas
 
-Projeto feito com base no curso `Jornada Python` do canal `Hashtag Programação`.
+Projeto feito com base no curso `Jornada Python` do canal [`Hashtag Programação`](https://www.youtube.com/@HashtagProgramacao).
 
 ## 💻 Funcionalidade
 Automatizar o processo de cadastramento de produtos no site de uma empresa (empresa fictícia, e site disponibilizado pelo instrutor do curso);
@@ -22,5 +22,6 @@ Automatizar o processo de cadastramento de produtos no site de uma empresa (empr
  `time` -> tempo de pausa entre comandos
 
  `pandas` -> importar a base de dados
+
 
 
